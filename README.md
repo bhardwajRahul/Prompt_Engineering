@@ -126,6 +126,9 @@ Related deep dive: [Why AI experts are moving from prompt engineering to context
 
 🤖 Dive into my **[GenAI Agents Repository](https://github.com/NirDiamant/GenAI_Agents)** for a wide range of AI agent implementations and tutorials, from simple conversational bots to complex, multi-agent systems for various applications.
 
+
+🧠 Give your agents memory with **[Agent Memory Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques)** — 30 runnable notebooks on conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, plus Mem0, MemGPT/Letta, Zep, and Graphiti.
+
 ## A Community-Driven Knowledge Hub
 
 **This repository grows stronger with your contributions!** Join our vibrant Discord community — the central hub for shaping and advancing this project together 🤝
