@@ -17,7 +17,7 @@ Welcome to one of the most extensive and dynamic collections of Prompt Engineeri
 
 **[RAG Made Simple](https://diamant-ai.com/rag-made-simple?code=RAGKING)** - the production reference for RAG systems, built with the prompting techniques you learn in this repo.
 *1,500+ copies sold · Hit #1 in Generative AI on Amazon at launch · ⭐ 4.6 stars*
-**PDF + EPUB · GitHub community offer: 33% off with code RAGKING**
+**PDF + EPUB · GitHub community price: 33% off with code RAGKING**
 
 ### 👉 [**Get RAG Made Simple (33% off with code RAGKING)**](https://diamant-ai.com/rag-made-simple?code=RAGKING)
 
