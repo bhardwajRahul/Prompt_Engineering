@@ -41,6 +41,12 @@ Welcome to one of the most extensive and dynamic collections of Prompt Engineeri
 
 [![DiamantAI's newsletter](images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
 
+## 🎓 From prompts to production
+
+**[Prompt to Production](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=course-waitlist-cta&target=https%3A%2F%2Fdiamant-ai.com%2Fcourse-waitlist%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dprompt-engineering&retarget=0&text=course-waitlist-cta)** - my upcoming course on the full method: taking AI-assisted software from prompt to a tested, secured, deployed product. Specs, context engineering, review loops, security, deployment, end to end.
+
+**[Join the waiting list →](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=prompt-engineering--readme&click=course-waitlist-cta&target=https%3A%2F%2Fdiamant-ai.com%2Fcourse-waitlist%3Futm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dprompt-engineering&retarget=0&text=course-waitlist-cta)** · founding members pay less than the public launch price
+
 ## Introduction
 
 Prompt engineering is at the forefront of artificial intelligence, revolutionizing the way we interact with and leverage AI technologies. This repository is designed to guide you through the development journey, from basic prompt structures to advanced, cutting-edge techniques.
